@@ -255,6 +255,7 @@ var _this = this;
                 this.category.id = this.index;
                 this.categoryLink = document.createElement("a");
                 this.categoryLink.innerHTML = this.emlSection.category;
+                this.categoryLink.title = "Click to expand/collapse";
                 this.category.appendChild(this.categoryLink);
             };
             return Category;

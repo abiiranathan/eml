@@ -5,19 +5,23 @@
   box-sizing: border-box;
 }
 
+body {
+  font-size: 1.2rem;
+  background-image: url(./src/bg.svg);
+  background-size: cover;
+}
+
 header {
   padding: 1rem 2rem 1rem;
   text-align: center;
-  background-color: rgb(164, 201, 238);
-  position: sticky;
-  top: 0;
+  background-color: rgb(164, 201, 238, 0.5);
 }
 
 #navbar .title {
   font-weight: 800;
   font-size: clamp(3.5vmin, 6.5vmin, 10vmin);
   padding-bottom: 5px;
-  color: #333;
+  color: #00507f;
 }
 
 #navbar .subtitle {
@@ -25,8 +29,12 @@ header {
 }
 
 #main {
-  padding: 0 1rem 2rem;
-  background-color: #fff;
+  padding: 1rem 2rem;
+  background-color: #f9f9f9;
+  width: 80%;
+  margin: auto;
+  box-shadow: 0 0 2px inset;
+  margin-bottom: 50px;
 }
 p.eml-category {
   padding: 0.25rem 0 0.3rem 0;
@@ -122,8 +130,9 @@ p.eml-category {
 .drug__name {
   font-size: 15px;
 }
+
 .drug__description {
-  font-size: 13px;
+  font-size: 14px;
   white-space: pre-line;
 }
 
@@ -164,4 +173,14 @@ p.eml-category {
   display: inline-block;
   margin-right: 10px;
   margin-top: 2px;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 1rem;
+  }
+
+  #main {
+    width: 100%;
+  }
 }

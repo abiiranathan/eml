@@ -10,35 +10,34 @@
   <body>
     <header>
       <nav id="navbar">
-        <h1 class="title">WHO - Essential medicines List(2007)</h1>
+        <h1 class="title">WHO - Essential medicines List</h1>
         <h4 class="subtitle">Developed and maintainer by Dr. Abiira Nathan</h4>
       </nav>
     </header>
+    <div id="search">
+      <input
+        type="search"
+        name="name"
+        placeholder="Search by drug name/category/sub-category e.g antiretral"
+        autocomplete="off"
+        id="search-input"
+      />
+      <form id="filter-form">
+        <section>
+          <input type="radio" name="filter" id="category" checked />
+          <label for="category">Category</label>
+        </section>
+        <section>
+          <input type="radio" name="filter" id="subcategory" />
+          <label for="subcategory">Sub-category</label>
+        </section>
+        <section>
+          <input type="radio" name="filter" id="drug" />
+          <label for="drug">Drug</label>
+        </section>
+      </form>
+    </div>
     <main id="main">
-      <p class="eml-category">Category: Paediatrics</p>
-      <div id="search">
-        <input
-          type="search"
-          name="name"
-          placeholder="Search for drug"
-          autocomplete="off"
-          id="search-input"
-        />
-        <form id="filter-form">
-          <section>
-            <input type="radio" name="filter" id="category" checked />
-            <label for="category">Category</label>
-          </section>
-          <section>
-            <input type="radio" name="filter" id="subcategory" />
-            <label for="subcategory">Sub-category</label>
-          </section>
-          <section>
-            <input type="radio" name="filter" id="drug" />
-            <label for="drug">Drug</label>
-          </section>
-        </form>
-      </div>
       <ul id="search-output" class="hidden"></ul>
       <ul id="content"></ul>
     </main>
