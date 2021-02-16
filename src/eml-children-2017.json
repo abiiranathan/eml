@@ -1,0 +1,1932 @@
+[
+  {
+    "category": "General anaesthetics and oxygyen",
+    "classes": [
+      {
+        "subcategory": "Inhalational medicines",
+        "drugs": [
+          {
+            "name": "Halothane",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Isoflurane",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Nitrous oxide",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Oxygen",
+            "description": "Inhalation(medical gas)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Injectable medicines",
+        "drugs": [
+          {
+            "name": "Ketamine",
+            "description": "Injection: 50 mg/mL in 10-mL vial."
+          },
+          {
+            "name": "Propofol",
+            "description": "Injection: 10 mg/mL; 20 mg/mL. \n\n*Thiopental may be used as an alternative depending on local availability and cost."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Local anaesthetics",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Bupivacaine",
+            "description": "Injection: 0.25%; 0.5% (hydrochloride) in vial.\n\nInjection for spinal anaesthesia: 0.5% (hydrochloride) in 4-mL ampoule to be mixed with 7.5% glucose solution."
+          },
+          {
+            "name": "Lidocaine",
+            "description": "Injection: 1%; 2% (hydrochloride) in vial.\n\nInjection for spinal anaesthesia: 5% (hydrochloride) in 2-mL ampoule to be mixed with 7.5% glucose solution. \n\nTopical forms: 2% to 4% (hydrochloride)."
+          },
+          {
+            "name": "Lidocaine + epinephrine(adrenaline)",
+            "description": "Dental cartridge: 2% (hydrochloride) + epinephrine 1:80000.\n\nInjection: 1%; 2% (hydrochloride or sulfate) + epinephrine 1: 200 000 in vial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Preoperative medication and sedation for short-term procedures",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Atropine",
+            "description": "Injection: 1 mg (sulfate) in 1-mL ampoule."
+          },
+          {
+            "name": "Midazolam",
+            "description": "Injection: 1 mg/mL. \n\n Oral liquid: 2 mg/mL. \n\nTablet: 7.5 mg; 15 mg."
+          },
+          {
+            "name": "Morphine",
+            "description": "Injection: 10 mg (sulfate or hydrochloride) in 1-mL ampoule."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Medicines for pain and palliative care",
+    "classes": [
+      {
+        "subcategory": "Non-opioids and non-steroidal anti-inflammatory drugs (NSAIDs)",
+        "drugs": [
+          {
+            "name": "Ibuprofen",
+            "description": "Oral liquid: 200 mg/5 mL. \n\nTablet: 200 mg; 400 mg; 600 mg. \n\nNot in children less than 3 months."
+          },
+          {
+            "name": "Paracetamol",
+            "description": "Oral liquid: 120 mg/5 mL; 125 mg/5 mL \n\nSuppository: 100 mg. Tablet: 100 mg to 500 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Opioid analgesics",
+        "drugs": [
+          {
+            "name": "Morphine",
+            "description": "Granules (slow release; to mix with water): 20 mg to 200 mg (morphine sulfate).\n\nInjection: 10 mg (morphine hydrochloride or morphine sulfate) in 1-mL ampoule. \n\nOral liquid: 10 mg (morphine hydrochloride or morphine sulfate)/5 mL.\n\nTablet (slow release): 10 mg – 200mg (morphine hydrochloride or morphine sulfate).\n\nTablet (immediate release): 10 mg (morphine sulfate)."
+          },
+          {
+            "name": "Methadone",
+            "description": "Tablet: 5 mg; 10 mg (as hydrochloride \n\nOral liquid: 5mg/ 5mL; 10mg/ 5mL (as hydrochloride)\n\nConcentrate for oral liquid: 5 mg/ mL; 10mg/ mL (as hydrochloride)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines for other symptoms common in palliative care",
+        "drugs": [
+          {
+            "name": "Amitriptyline",
+            "description": "Tablet: 10 mg; 25 mg."
+          },
+          {
+            "name": "Cyclizine",
+            "description": "Injection: 50 mg/mL.\n\nTablet: 50 mg."
+          },
+          {
+            "name": "Dexamethasone",
+            "description": "Injection: 4 mg/mL in 1-mL ampoule (as disodium phosphate salt).\n\nOral liquid: 2 mg/5 mL.\n\nTablet: 2 mg."
+          },
+          {
+            "name": "Diazepam",
+            "description": "Injection: 5 mg/mL.\n\nOral liquid: 2 g/5 mL.\n\nRectal solution: 2.5 mg; 5 mg; 10 mg.\n\nTablet: 5 mg; 10 mg"
+          },
+          {
+            "name": "Docusate sodium",
+            "description": "Capsule: 100 mg.\n\nOral liquid: 50 mg/5 mL."
+          },
+          {
+            "name": "Fluoxetine",
+            "description": "Solid oral dosage form: 20 mg (as hydrochloride).For children >8 years."
+          },
+          {
+            "name": "Hyoscine hydrobromide",
+            "description": "Injection: 400 micrograms/mL; \n\n600 micrograms/mL.\n\nTransdermal patches: 1 mg/72 hours."
+          },
+          {
+            "name": "Lactulose",
+            "description": "Oral liquid: 3.1–3.7 g/5 mL."
+          },
+          {
+            "name": "Midazolam",
+            "description": "Injection: 1 mg/mL; 5 mg/mL.\n\nOral liquid: 2mg/mL.\n\nSolid oral dosage form: 7.5 mg; 15 mg."
+          },
+          {
+            "name": "Ondansetron",
+            "description": "Injection: 1 mg/mL; 5 mg/mL.\n\nOral liquid: 2mg/mL.\n\nSolid oral dosage form: 7.5 mg; 15 mg."
+          },
+          {
+            "name": "Senna",
+            "description": "Oral liquid: 7.5 mg/5 mL."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Antiallergics and medicines used in anaphylaxis",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Dexamethasone",
+            "description": "Injection: 4 mg/mL in 1-mL ampoule (as disodium phosphate salt)."
+          },
+          {
+            "name": "Epinephrine (adrenaline)",
+            "description": "Injection: 1 mg (as hydrochloride or hydrogen tartrate) in 1-mL ampoule."
+          },
+          {
+            "name": "Hydrocortisone",
+            "description": "Oral liquid: 5 mg/mL.\n\nTablet: 5 mg; 25 mg."
+          },
+          {
+            "name": "Loratadine",
+            "description": "Oral liquid: 1 mg/mL.\n\nTablet: 10 mg.\n\n*There may be a role for sedating antihistamines for limited indications."
+          },
+          {
+            "name": "Prednisolone",
+            "description": "Oral liquid: 5 mg/mL.\n\nTablet: 5 mg; 25 mg."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "General anaesthetcis and oxygyen",
+    "classes": [
+      {
+        "subcategory": "Inhalational medicines",
+        "drugs": [
+          {
+            "name": "Halothane",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Isoflurane",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Nitrous oxide",
+            "description": "Inhalation"
+          },
+          {
+            "name": "Oxygen",
+            "description": "Inhalation(medical gas)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Injectable medicines",
+        "drugs": [
+          {
+            "name": "Ketamine",
+            "description": "Injection: 50 mg/mL in 10-mL vial."
+          },
+          {
+            "name": "Propofol",
+            "description": "Injection: 10 mg/mL; 20 mg/mL. \n\n*Thiopental may be used as an alternative depending on local availability and cost."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Antidotes and other substances used in poisonings",
+    "classes": [
+      {
+        "subcategory": "Non-specific",
+        "drugs": [
+          {
+            "name": "Charcoal, activated",
+            "description": "Powder"
+          }
+        ]
+      },
+      {
+        "subcategory": "Specific",
+        "drugs": [
+          {
+            "name": "Acetylcysteine",
+            "description": "Injection: 200 mg/mL in 10-mL ampoule.\n\nOral liquid: 10%; 20%."
+          },
+          {
+            "name": "Atropine",
+            "description": "Injection: 1 mg (sulfate) in 1-mL ampoule."
+          },
+          {
+            "name": "Calcium gluconate",
+            "description": "Injection: 100 mg/mL in 10-mL ampoule."
+          },
+          {
+            "name": "Naloxone",
+            "description": "Injection: 400 micrograms (hydrochloride) in 1-mL ampoule."
+          },
+          {
+            "name": "Deferoxamine",
+            "description": "Powder for injection: 500 mg (mesilate) in vial."
+          },
+          {
+            "name": "Dimercaprol",
+            "description": "Injection in oil: 50 mg/mL in 2-mL ampoule."
+          },
+          {
+            "name": "Fomepizole",
+            "description": "Injection: 5 mg/mL (sulfate) in 20-mL ampoule or 1 g/mL(base) in 1.5-mL ampoule."
+          },
+          {
+            "name": "Dimercaprol",
+            "description": "Injection in oil: 50 mg/mL in 2-mL ampoule."
+          },
+          {
+            "name": "Sodium calcium edetate",
+            "description": "Injection: 200 mg/mL in 5-mL ampoule."
+          },
+          {
+            "name": "Succimer",
+            "description": "Solid oral dosage form: 100 mg."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Anticonvulsants/antiepileptics",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Carbamazepine",
+            "description": "Oral liquid: 100 mg/5 mL. \n\nTablet (chewable): 100 mg; 200 mg.\n\nTablet (scored): 100 mg; 200 mg."
+          },
+          {
+            "name": "Diazepam",
+            "description": "Gel or rectal solution: 5 mg/mL in 0.5 mL; 2-mL; 4-mL tubes."
+          },
+          {
+            "name": "Lamotrigine",
+            "description": "Tablet: 25 mg; 50 mg; 100 mg; 200 mg.\n\nTablet chewable,  dispersible): 2 mg; 5 mg; 25 mg; 50 mg; 100 mg; 200 mg. \n\n*as adjunctive therapy for treatment-resistant partial or generalized seizures."
+          },
+          {
+            "name": "Lorazepam",
+            "description": "Parenteral formulation: 2 mg/mL in 1-mL ampoule; 4 mg/mL in 1-mL ampoule."
+          },
+          {
+            "name": "Midazolam",
+            "description": "Solution for oromucosal administration: 5 mg/mL; 10 mg/mL\n\nAmpoule*: 1 mg/ mL; 10 mg/mL\n\n*for buccal administration when solution for oromucosal administration is not available"
+          },
+          {
+            "name": "Phenobarbital",
+            "description": "Injection: 200 mg/mL (sodium).\n\nOral liquid: 15 mg/5 mL.\n\nTablet: 15 mg to 100 mg."
+          },
+          {
+            "name": "Phenytoin",
+            "description": "Injection: 50 mg/mL in 5-mL vial (sodium salt).\n\nOral liquid: 25 mg to 30 mg/5 mL.*\n\nSolid oral dosage form: 25 mg; 50 mg; 100 mg (sodium salt).\n\nTablet (chewable): 50 mg.\n\n* The presence of both 25 mg/5 mL and 30 mg/5 mL strengths on the same market would cause confusion in prescribing and  dispensing and should be avoided."
+          },
+          {
+            "name": "Valproic acid (sodium valproate)",
+            "description": "Oral liquid: 200 mg/5 mL.\n\nTablet (crushable): 100 mg.\n\nTablet (enteric-coated): 200 mg; 500 mg (sodium valproate).\n\nInjection: 100 mg/ mL in 4-mL ampoule; 100 mg/ mL in 10-mL ampoule."
+          },
+          {
+            "name": "Ethosuximide",
+            "description": "Capsule: 250 mg.\n\nOral liquid: 250 mg/5 mL."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Anti-infective medicines",
+    "classes": [
+      {
+        "subcategory": "Intestinal anthelminthics",
+        "drugs": [
+          {
+            "name": "Albendazole",
+            "description": "Tablet (chewable): 400 mg."
+          },
+          {
+            "name": "Ivermectin",
+            "description": "Tablet (scored): 3 mg."
+          },
+          {
+            "name": "Levamisole",
+            "description": "Tablet: 50 mg; 150 mg (as hydrochloride)."
+          },
+          {
+            "name": "Mebendazole",
+            "description": "Tablet (chewable): 100 mg; 500 mg."
+          },
+          {
+            "name": "Niclosamide",
+            "description": "Tablet (chewable): 500 mg."
+          },
+          {
+            "name": "Praziquantel",
+            "description": "Tablet: 150 mg; 600 mg."
+          },
+          {
+            "name": "Pyrantel",
+            "description": "Oral liquid: 50 mg (as embonate or pamoate)/mL.Tablet (chewable): 250 mg (as embonate or pamoate)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antifilarials",
+        "drugs": [
+          {
+            "name": "Albendazole",
+            "description": "Tablet (chewable): 400 mg."
+          },
+          {
+            "name": "Diethylcarbamazine",
+            "description": "Tablet: 50 mg; 100 mg (dihydrogen citrate)."
+          },
+          {
+            "name": "Ivermectin",
+            "description": "Tablet (scored): 3 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antischistosomals and other antitrematode medicines",
+        "drugs": [
+          {
+            "name": "Praziquantel",
+            "description": "Tablet: 600 mg."
+          },
+          {
+            "name": "Triclabendazole",
+            "description": "Tablet: 250 mg."
+          },
+          {
+            "name": "Oxamniquine*",
+            "description": "Capsule: 250 mg.\n\nOral liquid: 250 mg/5 mL.\n\n* Oxamniquine is listed for use when praziquantel treatment fails."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Antibacterials",
+    "classes": [
+      {
+        "subcategory": "Beta-lactam medicines",
+        "drugs": [
+          {
+            "name": "Amoxicillin",
+            "description": "Powder for oral liquid: 125 mg (as trihydrate)/5 mL; 250 mg (as trihydrate)/5mL \n\nSolid oral dosage form: 250 mg; 500 mg (as trihydrate).\n\nPowder for injection: 250 mg; 500 mg; 1 g (as sodium) in vial."
+          },
+          {
+            "name": "Amoxicillin + Clavulanic acid",
+            "description": "Oral liquid: 125 mg amoxicillin + 31.25 mg clavulanic acid/5 mL AND 250 mg amoxicillin + 62.5 mg clavulanic acid/5 mL.\n\nTablet: 500 mg (as trihydrate) + 125 mg (as potassium salt).\n\nPowder for injection: 500 mg (as sodium) + 100 mg (as potassium salt); 1000 mg (as sodium) + 200 mg (as potassium salt) in vial."
+          },
+          {
+            "name": "Ampicillin",
+            "description": "Powder for injection: 500 mg; 1 g (as sodium salt) in vial."
+          },
+          {
+            "name": "Benzathine benzylpenicillin",
+            "description": "Powder for injection: 900 mg benzylpenicillin (= 1.2 million IU) in 5- mL vial; \n\nNB:1.44 g benzylpenicillin (= 2.4 million IU) in 5- mL vial."
+          },
+          {
+            "name": "Benzylpenicillin",
+            "description": "Powder for injection: 600 mg (= 1 million IU); 3 g (= 5 million IU) (sodium or potassium salt) in vial."
+          },
+          {
+            "name": "Cefalexin",
+            "description": "Powder for reconstitution with water: 125 mg/5 mL; 250 mg/5 mL(anhydrous).\n\nSolid oral dosage form: 250 mg (as monohydrate)."
+          },
+          {
+            "name": "Cefazolin",
+            "description": "Powder for injection: 1 g (as sodium salt) in vial. \n\n* also indicated for surgical prophylaxis in children >1 month."
+          },
+          {
+            "name": "Cefixime",
+            "description": "Capsules or tablets: 200 mg; 400 mg (as trihydrate)\n\nPowder for oral liquid: 100 mg /5 mL"
+          },
+          {
+            "name": "Cefotaxime",
+            "description": "Powder for injection: 250 mg per vial (as sodium salt)\n\n* 3rd generation cephalosporin of choice for use in hospitalized neonates."
+          },
+          {
+            "name": "Ceftriaxone",
+            "description": "Powder for injection: 250 mg; 1 g (as sodium salt) in vial. \n\n* Do not administer with calcium and avoid in infants with hyperbilirubinaemia"
+          },
+          {
+            "name": "Cloxacillin",
+            "description": "Capsule: 500 mg; 1 g (as sodium salt). \n\nPowder for injection: 500 mg (as sodium salt) in vial.\n\n Powder for oral liquid: 125 mg (as sodium salt)/5 mL. \n\n*Cloxacillin, dicloxacillin and flucloxacillin are preferred for oral administration due to better bioavailability."
+          },
+          {
+            "name": "Phenoxymethylpenicillin",
+            "description": "Powder for oral liquid: 250 mg (as potassium salt)/5 mL.\n\nTablet: 250 mg (as potassium salt)."
+          },
+          {
+            "name": "Piperacillin + Tazobactam",
+            "description": "Powder for injection: 2 g (as sodium salt) + 250 mg (as sodium salt); 4 g (as sodium salt) + 500 mg (as sodium salt) in vial"
+          },
+          {
+            "name": "Procaine benzylpenicillin*",
+            "description": "Powder for injection: 1 g (=1 million IU); 3 g (=3 million IU) in vial.\n\n* Procaine benzylpenicillin is not recommended as first-line treatment for neonatal sepsis / sepsis except in settings with high neonatal mortality, when given by trained health workers in cases where hospital care is not achievable."
+          },
+          {
+            "name": "Ceftazidime",
+            "description": "Powder for injection: 250 mg or 1 g (as pentahydrate) in vial."
+          },
+          {
+            "name": "Meropenem",
+            "description": "owder for injection: 500 mg (as trihydrate); 1 g (as trihydrate) in vial in children >3 months.\n\n *imipenem + cilastatin is an alternative except for acute bacterial meningitis where meropenen is preferred."
+          },
+          {
+            "name": "Aztreonam",
+            "description": "Powder for injection: 1 g; 2 g in vial"
+          },
+          {
+            "name": "Ceftaroline",
+            "description": "Powder for injection: 400 mg; 600 mg (as fosamil) in vial\n\n**fifth generation cephalosporin"
+          },
+          {
+            "name": "Cefepime",
+            "description": "Powder for injection: 400 mg; 600 mg (as fosamil) in vial"
+          }
+        ]
+      },
+      {
+        "subcategory": "Other antibacterials",
+        "drugs": [
+          {
+            "name": "Amikacin",
+            "description": "Injection: 250 mg (as sulfate)/mL in 2- mL vial"
+          },
+          {
+            "name": "Azithromycin",
+            "description": "Capsule: 250 mg; 500 mg (anhydrous).\n\nOral liquid: 200 mg/5 mL.\n\n* also listed for single-dose treatment of trachoma and yaws."
+          },
+          {
+            "name": "Chloramphenicol",
+            "description": "Capsule: 250 mg.\n\nOily suspension for injection*: 0.5 g (as sodium succinate)/ mL in 2- mL ampoule. \n\n* Only for the presumptive treatment of epidemic meningitis in children older than 2 years. \n\nOral liquid: 150 mg (as palmitate)/5 mL.\n\nPowder for injection: 1 g (sodium succinate) in vial."
+          },
+          {
+            "name": "Ciprofloxacin",
+            "description": "Oral liquid: 250 mg/5 mL (anhydrous).\n\nSolution for IV infusion: 2 mg/ mL (as hyclate).\n\nTablet: 250 mg (as hydrochloride)."
+          },
+          {
+            "name": "Clarithromycin",
+            "description": "Solid oral dosage form: 500 mg. \n\nPowder for oral liquid: 125 mg/5 mL; 250 mg/5 mL\n\n*erythromycin may be an alternative"
+          },
+          {
+            "name": "Clindamycin",
+            "description": "Capsule: 150 mg (as hydrochloride).\n\nInjection: 150 mg (as phosphate)/ mL. \n\nOral liquid: 75 mg/5 mL (as palmitate)."
+          },
+          {
+            "name": "Doxycycline",
+            "description": "Oral liquid: 25 mg/5 mL ; 50 mg/5 mL (anhydrous).\n\nSolid oral dosage form: 50 mg ; 100 mg (as hyclate).\n\nPowder for injection: 100 mg in vial\n\n**Use in children < 8 years only for life-threatening infections when no alternative exists."
+          },
+          {
+            "name": "Gentamicin",
+            "description": "Injection: 10 mg; 40 mg (as sulfate)/mL in 2-mL vial."
+          },
+          {
+            "name": "Metronidazole",
+            "description": "Injection: 500 mg in 100- mL vial.\n\nOral liquid: 200 mg (as benzoate)/5 mL.\n\nTablet: 200 mg to 500 mg."
+          },
+          {
+            "name": "Nitrofurantoin",
+            "description": "Oral liquid: 25 mg/5 mL.\n\nTablet: 100 mg."
+          },
+          {
+            "name": "Sulfamethoxazole + Trimethoprim",
+            "description": "Injection:\n\n80 mg + 16 mg/ mL in 5- mL ampoule;\n\n80 mg + 16 mg/ mL in 10- mL ampoule.\n\nOral liquid: 200 mg + 40 mg/5 mL.\n\nTablet: 100 mg + 20 mg; 400 mg + 80 mg"
+          },
+          {
+            "name": "Vancomycin",
+            "description": "Capsule: 125 mg; 250 mg (as hydrochloride).\n\nPowder for injection: 250 mg (as hydrochloride) in vial."
+          },
+          {
+            "name": "Daptomycin",
+            "description": "Powder for injection: 350 mg; 500 mg in vial"
+          },
+          {
+            "name": "Fosfomycin",
+            "description": "Powder for injection: 2 g; 4 g (as sodium) in vial"
+          },
+          {
+            "name": "Linezolid",
+            "description": "Injection for intravenous administration: 2 mg/ mL in 300 mL bag.\n\nPowder for oral liquid: 100 mg/5 mL.\n\nTablet: 400 mg; 600 mg."
+          },
+          {
+            "name": "Tigecycline",
+            "description": "Powder for injection: 50 mg in vial"
+          },
+          {
+            "name": "Colistin",
+            "description": "Powder for injection: 1 million I.U. (as colistemethate sodium) in vial"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antileprosy medicines",
+        "drugs": [
+          {
+            "name": "Clofazimine",
+            "description": "Capsule: 50 mg; 100 mg"
+          },
+          {
+            "name": "Dapsone",
+            "description": "Tablet: 25 mg; 50 mg; 100 mg"
+          },
+          {
+            "name": "Rifampicin",
+            "description": "Solid oral dosage form: 150 mg; 300 mg"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antituberculosis medicines - First line",
+        "drugs": [
+          {
+            "name": "Ethambutol",
+            "description": "Oral liquid: 25 mg/mL.\n\nTablet: 100 mg; 400 mg (hydrochloride)."
+          },
+          {
+            "name": "Isoniazid",
+            "description": "Oral liquid: 50 mg/5 mL.\n\nTablet: 100 mg to 300 mg.\n\nTablet (scored): 50 mg."
+          },
+          {
+            "name": "Isoniazid + Pyrazinamide + Rifampicin",
+            "description": "Tablet (dispersible): 50 mg + 150 mg + 75 mg."
+          },
+          {
+            "name": "Isoniazid + Rifampicin",
+            "description": "Tablet (dispersible): 50 mg + 75 mg."
+          },
+          {
+            "name": "Pyrazinamide",
+            "description": "Oral liquid: 30 mg/mL.\n\nTablet: 400 mg.\n\nTablet (dispersible): 150 mg.\n\nTablet (scored): 150 mg."
+          },
+          {
+            "name": "Rifampicin",
+            "description": "Oral liquid: 20 mg/mL.\n\nSolid oral dosage form: 150 mg; 300 mg."
+          },
+          {
+            "name": "Rifapentine*",
+            "description": "Tablet: 150 mg\n\n**For treatment of latent TB infection (LTBI) only"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antituberculosis medicines - Second line",
+        "drugs": [
+          {
+            "name": "Amikacin",
+            "description": "Powder for injection: 100 mg; 500 mg; 1 g (as sulfate) in vial."
+          },
+          {
+            "name": "Capreomycin",
+            "description": "Powder for injection: 1 g (as sulfate) in vial."
+          },
+          {
+            "name": "Clofazimine",
+            "description": "Capsule: 50 mg; 100 mg."
+          },
+          {
+            "name": "Delamanid",
+            "description": "Tablet: 50 mg.\n\nNB: For use in children > 6years"
+          },
+          {
+            "name": "Ethionamide",
+            "description": "Tablet: 125 mg; 250 mg.\n\n*Protionamide may be used as an alternative."
+          },
+          {
+            "name": "Kanamycin",
+            "description": "Powder for injection: 1 g (as sulfate) in vial."
+          },
+          {
+            "name": "Levofloxacin",
+            "description": "Tablet: 250 mg: 500 mg."
+          },
+          {
+            "name": "Linezolid",
+            "description": "Injection for intravenous administration: 2 mg/ mL in 300 mL bag\n\nPowder for oral liquid: 100 mg/5 mL,Tablet: 400 mg; 600 mg"
+          },
+          {
+            "name": "Moxifloxacin",
+            "description": "Tablet: 400 mg"
+          },
+          {
+            "name": "p-aminosalicylic acid",
+            "description": "Granules: 4 g in sachet.\n\nTablet: 500 mg."
+          },
+          {
+            "name": "Streptomycin",
+            "description": "Powder for injection: 1 g (as sulfate) in vial."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antifungal medicines",
+        "drugs": [
+          {
+            "name": "amphotericin B",
+            "description": "Powder for injection: 50 mg in vial (as sodium deoxycholate or liposomal complex)."
+          },
+          {
+            "name": "Fluconazole",
+            "description": "Capsule: 50 mg.\n\nInjection: 2 mg/mL in vial.\n\nOral liquid: 50 mg/5 mL."
+          },
+          {
+            "name": "Flucytosine",
+            "description": "Capsule: 250 mg. \n\nInfusion: 2.5 g in 250 mL."
+          },
+          {
+            "name": "Griseofulvin",
+            "description": "Oral liquid: 125 mg/5 mL. \n\nSolid oral dosage form: 125 mg; 250 mg."
+          },
+          {
+            "name": "Itraconazole",
+            "description": "Capsule: 100 mg.\n\nOral liquid: 10 mg/mL.\n\n*For treatment of chronic pulmonary aspergillosis, acuteinvasive aspergillosis, histoplasmosis, sporotrichosis,paracoccidiodomycosis, mycoses caused by T. marneffei and chromoblastomycosis; and prophylaxis of histoplasmosis and infections caused by T. marneffei in AIDS patients."
+          },
+          {
+            "name": "Nystatin",
+            "description": "Lozenge: 100 000 IU\n\nOral liquid: 50 mg/5 mL; 100 000 IU/mL.\n\nTablet: 100 000 IU; 500 000 IU."
+          },
+          {
+            "name": "Voriconazole",
+            "description": "Tablet: 50 mg; 200 mg.\n\nPowder for injection: 200 mg in vial.\n\nPowder for oral liquid: 40 mg/mL.\n\n**For treatment of chronic pulmonary aspergillosis and acute invasive aspergillosis."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiherpes medicines",
+        "drugs": [
+          {
+            "name": "Aciclovir",
+            "description": "Oral liquid: 200 mg/5 mL. \n\nPowder for injection: 250 mg (as sodium salt) in vial. \n\nTablet: 200 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiretrovirals(Nucleoside/Nucleotide reverse transcriptase inhibitors)",
+        "drugs": [
+          {
+            "name": "Abacavir (ABC)",
+            "description": "Tablet (dispersible, scored): 60 mg (as sulfate)."
+          },
+          {
+            "name": "Lamivudine (3TC)",
+            "description": "Oral liquid: 50 mg/5 mL.\n\nTablet: 150 mg."
+          },
+          {
+            "name": "Zidovudine (ZDV or AZT)",
+            "description": "Oral liquid: 50 mg/5 mL.\n\nTablet (dispersible, scored): 60 mg (as sulfate)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiretrovirals(Non-Nucleoside reverse transcriptase inhibitors)",
+        "drugs": [
+          {
+            "name": "Nevirapine (NVP)",
+            "description": "Oral liquid: 50 mg/5 mL.\n\nTablet: 50 mg (dispersible). \n\n**Use in children > 6wks"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiretrovirals(Protease inhibitors)",
+        "drugs": [
+          {
+            "name": "Atazanavir",
+            "description": "Solid oral dosage form: 100 mg; (as sulfate).\n\n *Use in children > 25 kg"
+          },
+          {
+            "name": "Darunavir",
+            "description": "Tablet: 75 mg.\n\n**Use in children > 3 years"
+          },
+          {
+            "name": "Lopinavir + Ritonavir (LPV/r)",
+            "description": "Oral liquid: 400 mg/5 mL.\n\nTablet (heat stable): 25 mg; 100 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiretrovirals(Integrase inhibitors)",
+        "drugs": [
+          {
+            "name": "Raltegravir",
+            "description": "Tablet (chewable): 25 mg; 100 mg.\n\nTablet: 400 mg.\n\n***for use in second-line regimens in accordance with WHO treatment guidelines"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiviral medicines - Antiretrovirals(Fixed-dose combinations)",
+        "drugs": [
+          {
+            "name": "Abacavir + lamivudine",
+            "description": "Tablet (dispersible, scored): 60 mg (as sulfate) + 30 mg; \n\n120 mg (as sulfate) + 60 mg."
+          },
+          {
+            "name": "Lamivudine + Nevirapine + Zidovudine",
+            "description": "Tablet: 30 mg + 50 mg + 60 mg."
+          },
+          {
+            "name": "Lamivudine + Zidovudine",
+            "description": "Tablet: 30 mg + 60 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines for prevention of HIV-related opportunistic infections",
+        "drugs": [
+          {
+            "name": "Isoniazid + Pyridoxine + Sulfamethoxazole +Ttrimethoprim",
+            "description": "Tablet (scored): 300 mg + 25 mg + 800 mg + 160 mg"
+          },
+          {
+            "name": "Lamivudine + Nevirapine + Zidovudine",
+            "description": "Tablet: 30 mg + 50 mg + 60 mg."
+          },
+          {
+            "name": "Lamivudine + Zidovudine",
+            "description": "Tablet: 30 mg + 60 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Other antivirals",
+        "drugs": [
+          {
+            "name": "Ribavirin",
+            "description": "njection for intravenous administration: 800 mg and 1 g in 10-mL phosphate buffer solution. \n\nSolid oral dosage form: 200 mg; 400 mg; 600 mg.\n\n* For the treatment of viral haemorrhagic fevers only."
+          },
+          {
+            "name": "Oseltamivir",
+            "description": "Capsule: 30 mg; 45 mg; 75 mg (as phosphate).\n\nOral powder: 12 mg/ mL.\n\n* Severe illness due to confirmed or suspected influenza virus infection in critically ill hospitalized patients"
+          },
+          {
+            "name": "Valganciclovir",
+            "description": "Powder for oral solution: 50 mg/mL\n\nTablet: 450 mg.\n\n*For the treatment of cytomegalovirus retinitis (CMVr)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines for hepatitis B - Nucleoside/Nucleotide reverse transcriptase inhibitors",
+        "drugs": [
+          {
+            "name": "entecavir",
+            "description": "Oral liquid: 0.05 mg/ mL\n\nTablet: 0.5 mg; 1 mg"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiprotozoal medicines - Antiamoebic and antigiardiasis medicines",
+        "drugs": [
+          {
+            "name": "Diloxanide",
+            "description": "Tablet: 500 mg (furoate).\n\nFor children  >25 kg"
+          },
+          {
+            "name": "Metronidazole",
+            "description": "Injection: 500 mg in 100-mL vial.\n\nOral liquid: 200 mg (as benzoate)/5 mL.\n\nTablet: 200 mg to 500 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiprotozoal medicines - Antileishmaniasis medicines",
+        "drugs": [
+          {
+            "name": "Amphotericin B",
+            "description": "Powder for injection: 50 mg in vial.\n\n As sodium deoxycholate or liposomal complex."
+          },
+          {
+            "name": "Miltefosine",
+            "description": "Solid oral dosage form: 10 mg; 50 mg."
+          },
+          {
+            "name": "Paromomycin",
+            "description": "Solution for intramuscular injection: 750 mg of paromomycin base (as the sulfate)."
+          },
+          {
+            "name": "Sodium stibogluconate or meglumine antimoniate",
+            "description": "Injection: 100 mg/mL, 1 vial = 30 mL or 30%, equivalent to approximately 8.1% antimony (pentavalent) in 5-mL ampoule."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiprotozoal medicines - Antimalarial medicines",
+        "drugs": [
+          {
+            "name": "Amodiaquine",
+            "description": "Tablet: 153 mg or 200 mg (as hydrochloride).\n\n*To be used in combination with artesunate 50 mg."
+          },
+          {
+            "name": "Artemether",
+            "description": "Oily injection: 80 mg/mL in 1-mL ampoule.\n\n* For use in the management of severe malaria."
+          },
+          {
+            "name": "Artemether + Lumefantrine",
+            "description": "Tablet: 20 mg + 120 mg.\n\nTablet(dispersible): 20 mg + 120 mg.\n\n** Not recommended in the first trimester of pregnancy or in children below 5 kg."
+          },
+          {
+            "name": "Artesunate",
+            "description": "Injection: ampoules, containing 60 mg anhydrous artesunic acid with a separate ampoule of 5% sodium bicarbonate solution.\n\nFor use in the management of severe malaria.\n\nRectal dosage form: 50 mg; 100 mg; 200 mg capsules (for pre-referral treatment of severe malaria only; patients should be taken to an appropriate health facility for follow-up care).\n\nTablet: 50 mg.\n\n* To be used in combination with either amodiaquine, mefloquine or sulfadoxine + pyrimethamine."
+          },
+          {
+            "name": "Artesunate + Amodiaquine",
+            "description": "Tablet: 25 mg + 67.5 mg; 50 mg + 135 mg; 100 mg + 270 mg."
+          },
+          {
+            "name": "Artesunate + mefloquine",
+            "description": "Tablet: 25 mg + 55 mg; 100 mg + 220 mg"
+          },
+          {
+            "name": "Artesunate + Pyronaridine tetraphosphate",
+            "description": "Tablet: 60 mg + 180 mg\n\nTablet: 20 mg + 60 mg \n\nFor use in children > 5 kg"
+          },
+          {
+            "name": "Chloroquine",
+            "description": "Oral liquid: 50 mg (as phosphate or sulfate)/5 mL.\n\nTablet: 100 mg; 150 mg (as phosphate or sulfate).\n\n* For use only for the treatment of P.vivax infection."
+          },
+          {
+            "name": "Dihydroartemisinin + Piperaquine phosphate",
+            "description": "Tablet: 20 mg + 160 mg; 40 mg + 320 mg\n\n > 5kg"
+          },
+          {
+            "name": "Doxycycline",
+            "description": "Capsule: 100 mg (as hydrochloride or hyclate).\n\nTablet (dispersible): 100 mg (as monohydrate)."
+          },
+          {
+            "name": "Mefloquine",
+            "description": "Tablet: 250 mg (as hydrochloride).\n\n* To be used in combination with artesunate 50 mg."
+          },
+          {
+            "name": "Primaquine",
+            "description": "Tablet: 7.5 mg; 15 mg (as diphosphate)"
+          },
+          {
+            "name": "Quinine",
+            "description": "Injection: 300 mg quinine hydrochloride/mL in 2-mL ampoule.\n\nTablet: 300 mg (quinine sulfate) or 300 mg (quinine bisulfate).\n\n* For use only in the management of severe malaria, and should be used in combination with doxycycline."
+          },
+          {
+            "name": "Sulfadoxine + Pyrimethamine",
+            "description": "Tablet: 500 mg + 25 mg.\n\n* Only in combination with artesunate 50 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antimalarial prophylaxis",
+        "drugs": [
+          {
+            "name": "Chloroquine",
+            "description": "Oral liquid: 50 mg (as phosphate or sulfate)/5 mL\n\nTablet: 150 mg (as phosphate or sulfate).\n\n* For use only for the treatment of P.vivax infection."
+          },
+          {
+            "name": "Doxycycline",
+            "description": "Solid oral dosage form: 100 mg (as hydrochloride or hyclate).\n\nFor children: >8 years."
+          },
+          {
+            "name": "Mefloquine",
+            "description": "Tablet: 250 mg (as hydrochloride).\n\n>5 kg or >3 months."
+          },
+          {
+            "name": "Proguanil",
+            "description": "Tablet: 100 mg (as hydrochloride).\n\n* For use only in combination with chloroquine."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antipneumocystosis and antitoxoplasmosis medicines",
+        "drugs": [
+          {
+            "name": "Pyrimethamine",
+            "description": "Tablet: 25 mg."
+          },
+          {
+            "name": "Sulfadiazine",
+            "description": "Tablet: 500 mg."
+          },
+          {
+            "name": "Sulfamethoxazole + trimethoprim",
+            "description": "Injection:\n\nSulfamethoxazole + trimethoprim\n\n80 mg + 16 mg/mL in 5-mL ampoule; \n\n80 mg + 16 mg/mL in 10-mL ampoule.\n\n\nOral liquid: 200 mg + 40 mg/5 mL.\n\nTablet: 100 mg + 20 mg; 400 mg + 80 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antitrypanosomal medicines - 1 st stage African trypanosomiasis",
+        "drugs": [
+          {
+            "name": "Pentamidine",
+            "description": "Powder for injection: 200 mg (as isetionate) in vial.\n\n* To be used for the treatment of Trypanosoma brucei gambiense infection"
+          },
+          {
+            "name": "Suramin sodium",
+            "description": "Powder for injection: 1 g in vial.\n\n* To be used for the treatment of the initial phase of Trypanosoma brucei rhodesiense infection."
+          },
+          {
+            "name": "Sulfamethoxazole + trimethoprim",
+            "description": "Injection:\n\nSulfamethoxazole + trimethoprim\n\n80 mg + 16 mg/mL in 5-mL ampoule; \n\n80 mg + 16 mg/mL in 10-mL ampoule.\n\n\nOral liquid: 200 mg + 40 mg/5 mL.\n\nTablet: 100 mg + 20 mg; 400 mg + 80 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antitrypanosomal medicines - 2 st stage African trypanosomiasis",
+        "drugs": [
+          {
+            "name": "Eflornithine",
+            "description": "Injection: 200 mg (hydrochloride)/mL in 100-mL bottle.\n\n* To be used for the treatment of Trypanosoma brucei gambiense infection."
+          },
+          {
+            "name": "Nifurtimox",
+            "description": "Tablet: 120 mg.\n\n* Only to be used in combination with eflornithine, for the treatment of Trypanosoma brucei gambiense infection."
+          },
+          {
+            "name": "Melarsoprol",
+            "description": "Injection: 3.6% solution in 5-mL ampoule (180 mg of active compound)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Antitrypanosomal medicines - American trypanosomiasis",
+        "drugs": [
+          {
+            "name": "Benznidazole",
+            "description": "Tablet: 12.5 mg; 100 mg.\n\nTablet (scored): 50 mg."
+          },
+          {
+            "name": "Nifurtimox",
+            "description": "Tablet: 120 mg.\n\n* Only to be used in combination with eflornithine, for the treatment of Trypanosoma brucei gambiense infection."
+          },
+          {
+            "name": "Nifurtimox",
+            "description": "Tablet: 30 mg; 120 mg; 250 mg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Antimigraine medicines",
+    "classes": [
+      {
+        "subcategory": "For treatment of acute attack",
+        "drugs": [
+          {
+            "name": "Ibuprofen",
+            "description": "Oral liquid: 120 mg/5 mL; 125 mg/5 mL.\n\nTablet: 300 mg to 500 mg."
+          },
+          {
+            "name": "Paracetamol",
+            "description": "Oral liquid: 120 mg/5 mL; 125 mg/5 mL. Tablet: 300 mg to 500 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "For prophylaxis",
+        "drugs": [
+          {
+            "name": "Propranolol",
+            "description": "Tablet: 20 mg; 40 mg (hydrochloride)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Antineoplastics and immunosuppressives",
+    "classes": [
+      {
+        "subcategory": "Cytotoxic and adjuvant medicines",
+        "drugs": [
+          {
+            "name": "Allopurinol",
+            "description": "Tablet: 100 mg; 300 mg."
+          },
+          {
+            "name": "Asparaginase",
+            "description": "Powder for injection: 10 000 IU in vial.\n\n-Acute lymphoblastic leukaemia."
+          },
+          {
+            "name": "Bleomycin",
+            "description": "Powder for injection: 15 mg (as sulfate) in vial.\n\n-Hodgkin lymphoma\n\n-Testicular germ cell tumours\n\n-Ovarian germ cell tumours"
+          },
+          {
+            "name": "Calcium folinate",
+            "description": "Injection: 3 mg/ mL in 10- mL ampoule. \n\nTablet: 15 mg\n\n-Osteosarcoma\n\n-Burkitt lymphoma"
+          },
+          {
+            "name": "Carboplatin",
+            "description": "Injection: 50 mg/5 mL; 150 mg/15 mL; 450 mg/45 mL; 600mg/60 mL"
+          },
+          {
+            "name": "Cisplatin",
+            "description": "Injection: 50 mg/5 mL; 150 mg/15 mL; 450 mg/45 mL; 600 mg/60 mL\n\n-Osteosarcoma\n\n-Retinoblastoma"
+          },
+          {
+            "name": "Cyclophosphamide",
+            "description": "Powder for injection: 500 mg in vial.\n\nTablet: 25 mg.\n\n-Rhabdomyosarcoma\n\n-Ewing sarcoma\n\n-Acute lymphoblastic leukaemia\n\n-Burkitt lymphoma\n\n-Hodgkin lymphoma"
+          },
+          {
+            "name": "Cytarabine",
+            "description": "Powder for injection: 100 mg in vial.\n\n-Acute lymphoblastic leukaemia\n\n-Burkitt lymphoma."
+          },
+          {
+            "name": "Dacarbazine",
+            "description": "Powder for injection: 100 mg in vial.\n\n-Hodgkin's lymphoma"
+          },
+          {
+            "name": "Dactinomycin",
+            "description": "Powder for injection: 500 micrograms in vial.\n\n-Rhabdomyosarcoma\n\n-Wilms tumor"
+          },
+          {
+            "name": "Daunorubicin",
+            "description": "Powder for injection: 50 mg (hydrochloride) in vial.\n-Acute lymphoblastic leukaemia"
+          },
+          {
+            "name": "Doxorubicin",
+            "description": "Powder for injection: 10 mg; 50 mg (hydrochloride) in vial\n\n-Osteosarcoma\n\n-Ewing sarcoma\n\n-Acute lymphoblastic leukaemia\n\n-Wilms tumour\n\n-Burkitt lymphoma\n\n-Hodgkin lymphoma"
+          },
+          {
+            "name": "Etoposide",
+            "description": "Capsule: 100 mg\n\nInjection: 20 mg/ mL in 5- mL ampoule.\n\nRetinoblastoma\n\n-Ewing sarcoma\n\n-Acute lymphoblastic leukaemia\n\n-Burkitt lymphoma\n\n-Hodgkin lymphoma\n\n-Testicular germ cell tumours\n\n-Ovarian germ cell tumours"
+          },
+          {
+            "name": "Filgrastim",
+            "description": "Injection: 120 micrograms/0.2 mL; 300 micrograms/0.5 mL; 480 micrograms/0.8 mL in pre-filled syringe 300 micrograms/mL in 1- mL vial, 480 mg/1.6 mL in 1.6- mL vial\n\n\nPrimary prophylaxis in patients at high risk for developing febrile neutropenia associated with myelotoxic chemotherapy\n\n-Secondary prophylaxis for patients who have experienced neutropenia following prior myelotoxic chemotherapy\n\n-To facilitate administration of dose dense chemotherapy regimens"
+          },
+          {
+            "name": "Ifosfamide",
+            "description": "Powder for injection: 500 mg vial 1-g vial; 2-g vial.\n\nOsteosarcoma\n\n-Rhabdomyosarcoma\n\n-Ewing sarcoma\n\n-Testicular germ cell tumours\n\n-Ovarian germ cell tumours"
+          },
+          {
+            "name": "Mercaptopurine",
+            "description": "Tablet: 50 mg.\nAcute lymphoblastic leukaemia"
+          },
+          {
+            "name": "Mesna",
+            "description": "Injection: 100 mg/ mL in 4- mL and 10- mL ampoules.\n\nTablet: 400 mg; 600 mg.\n\nOsteosarcoma\n\n-Rhabdomyosarcoma\n\n-Ewing sarcoma.\n\n-Testicular germ cell tumours\n\n-Ovarian germ cell tumours"
+          },
+          {
+            "name": "Methotrexate",
+            "description": "Powder for injection: 50 mg (as sodium salt) in vial.\n\nTablet: 2.5 mg (as sodium salt).\n\nOsteosarcoma\n\n-Acute lymphoblastic leukaemia"
+          },
+          {
+            "name": "Paclitaxel",
+            "description": "Powder for injection: 6 mg/ mL.\n\n-Ovarian germ cell tumours"
+          },
+          {
+            "name": "Tioguanine",
+            "description": "Solid oral dosage form: 40 mg\n\n-Acute lymphoblastic leukaemia."
+          },
+          {
+            "name": "Vinblastine",
+            "description": "Powder for injection: 10 mg (sulfate) in vial.\n\nTesticular germ cell tumours\n\nOvarian germ cell tumours\n\nHodgkin lymphoma"
+          },
+          {
+            "name": "Vincristine",
+            "description": "Powder for injection: 1 mg; 5 mg (sulfate) in vial.\n\nRetinoblastoma\n\nRhabdomyosarcoma\n\nEwing sarcoma\n\nAcute lymphoblastic leukaemia\n\nWilms tumour\n\nBurkitt lymphoma.\n\nHodgkin lymphoma"
+          }
+        ]
+      },
+      {
+        "subcategory": "Immunosuppressive medicines",
+        "drugs": [
+          {
+            "name": "Azathioprine",
+            "description": "Powder for injection: 100 mg (as sodium salt) in vial. \nTablet (scored): 50 mg."
+          },
+          {
+            "name": "Ciclosporin",
+            "description": "Capsule: 25 mg. Concentrate for injection: 50 mg/mL in 1-mL ampoule for organ transplantation."
+          }
+        ]
+      },
+      {
+        "subcategory": "Hormones and antihormones",
+        "drugs": [
+          {
+            "name": "Dexamethasone",
+            "description": "Oral liquid: 2 mg/5 mL\n\n-Acute lymphoblastic leukaemia"
+          },
+          {
+            "name": "Hydrocortisone",
+            "description": "Powder for injection: 100 mg (as sodium succinate) in vial.\n\n-Acute lymphoblastic leukaemia."
+          },
+          {
+            "name": "Methylprednisolone",
+            "description": "Injection: 40 mg/ mL (as sodium succinate) in 1- mL single-dose vial and 5- mL multi-dose vials; 80 mg/ mL (as sodium succinate) in 1-mL single-dose vial.\n\n-Acute lymphoblastic leukamia."
+          },
+          {
+            "name": "Prednisolone",
+            "description": "Oral liquid: 5 mg/ mL\n\nTablet: 5 mg; 25 mg.\n\n-Acute lymphoblastic leukaemia\n\n-Burkitt lymphoma\n\n-Hodgkin lymphoma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Medicines affecting the blood",
+    "classes": [
+      {
+        "subcategory": "Antianaemia medicines",
+        "drugs": [
+          {
+            "name": "ferrous salt",
+            "description": "Oral liquid: equivalent to 25 mg iron (as sulfate)/mL.\nTablet: 1 mg; 5mg"
+          },
+          {
+            "name": "Folic acid",
+            "description": "Tablet: 1 mg; 5 mg."
+          },
+          {
+            "name": "Hydroxocobalamin",
+            "description": "Injection: 1 mg (as acetate, as hydrochloride or as sulfate) in 1-mL ampoule."
+          },
+          {
+            "name": "Erythropoiesis-stimulating agents*",
+            "description": "1000IU/ 0.5 mL; 2000IU/ 0.5 mL; 3000IU/ 0.3 mL; 4000IU/ 0.4 mL; 5000IU/ 0.5 mL; 6000IU/ 0.6 mL; 8000IU/ 0.8mL; 10000IU/ 1 mL; 20 000IU/ 0.5 mL; 40 000IU/ 1 mL\n\n*Applies to epoetin alfa, beta and theta,darbepoietin alfa, and their respective biosimilars"
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines affecting coagulation",
+        "drugs": [
+          {
+            "name": "Phytomenadione(Vitamin K)",
+            "description": "Injection: 1 mg/mL; 10 mg/mL in 5-mL ampoule.\nTablet: 10 mg."
+          },
+          {
+            "name": "Desmopressin",
+            "description": "Injection: 4 micrograms/ mL (as acetate) in 1- mL ampoule.\n\nNasal spray: 10 micrograms (as acetate) per dose"
+          },
+          {
+            "name": "Heparin sodium",
+            "description": "Injection: 1000 IU/mL; 5000 IU/mL in 1-mL ampoule."
+          },
+          {
+            "name": "Protamine sulfate",
+            "description": "Injection: 10 mg/mL in 5-mL ampoule."
+          },
+          {
+            "name": "Warfarin",
+            "description": "Tablet: 0.5 mg; 1 mg; 2 mg; 5 mg (sodium salt)."
+          },
+          {
+            "name": "Deferoxamine",
+            "description": "Powder for injection: 500 mg (mesilate) in vial.\n\n Deferasirox oral form may be an alternative, depending on cost and availability."
+          },
+          {
+            "name": "Hydroxycarbamide",
+            "description": "Solid oral dosage form: 200 mg; 500 mg; 1 g."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Blood products of human origin and plasma substitutes",
+    "classes": [
+      {
+        "subcategory": "Human immunoglobulins",
+        "drugs": [
+          {
+            "name": "Anti-rabies immunoglobulin",
+            "description": "Injection: 150 IU/ mL in vial."
+          },
+          {
+            "name": "Anti-tetanus immunoglobulin",
+            "description": "Injection: 500 IU in vial."
+          },
+          {
+            "name": "Normal immunoglobulin",
+            "description": "Intramuscular administration: 16% protein solution.\n*Intravenous administration: 5%; 10% protein solution.**\nSubcutaneous administration: 15%; 16% protein solution.\n** Indicated for primary immune deficiency.\n**Indicated for primary immune deficiency and Kawasaki disease."
+          }
+        ]
+      },
+      {
+        "subcategory": "Blood coagulation factors",
+        "drugs": [
+          {
+            "name": "Coagulation factor VIII",
+            "description": "Powder for injection: 500 IU/vial."
+          },
+          {
+            "name": "Coagulation factor IX",
+            "description": "Powder for injection: 500 IU/vial, 1000 IU/vial."
+          }
+        ]
+      },
+      {
+        "subcategory": "Plasma substitutes",
+        "drugs": [
+          {
+            "name": "Dextran 70",
+            "description": "Injectable solution: 6%.\n* Polygeline, injectable solution, 3.5% is considered as equivalent."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cardiovascular medicines",
+    "classes": [
+      {
+        "subcategory": "Antihypertensive medicines",
+        "drugs": [
+          {
+            "name": "Enalapril",
+            "description": "Tablet: 2.5 mg; 5 mg (as hydrogen maleate)."
+          },
+          {
+            "name": "Digoxin",
+            "description": "Injection: 250 micrograms/mL in 2-mL ampoule.\nOral liquid: 50 micrograms/mL.\nTablet: 62.5 micrograms; 250 micrograms."
+          },
+          {
+            "name": "Furosemide",
+            "description": "Injection: 10 mg/mL in 2-mL ampoule.\nOral liquid: 20 mg/5 mL.\nTablet: 40 mg."
+          },
+          {
+            "name": "Dopamine",
+            "description": "Injection: 40 mg (hydrochloride) in 5-mL vial."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Dermatological medicines(topical)",
+    "classes": [
+      {
+        "subcategory": "Antifungal medicines",
+        "drugs": [
+          {
+            "name": "Miconazole",
+            "description": "Cream or ointment: 2% (nitrate)."
+          },
+          {
+            "name": "Terbinafine",
+            "description": "Cream: 1% or Ointment: 1% terbinafine hydrochloride."
+          }
+        ]
+      },
+      {
+        "subcategory": "Anti-infective medicines",
+        "drugs": [
+          {
+            "name": "Mupirocin",
+            "description": "Cream (as mupirocin calcium): 2%."
+          },
+          {
+            "name": "Potassium permanganate",
+            "description": "Aqueous solution: 1:10 000."
+          },
+          {
+            "name": "Silver sulfadiazine",
+            "description": "Cream: 1%. For children > 2 months"
+          }
+        ]
+      },
+      {
+        "subcategory": "Anti-inflammatory and antipruritic medicines",
+        "drugs": [
+          {
+            "name": "Betamethasone",
+            "description": "Cream or ointment: 0.1% (as valerate).\n\n**Hydrocortisone preferred in neonates."
+          },
+          {
+            "name": "Calamine",
+            "description": "Lotion"
+          },
+          {
+            "name": "Hydrocortisone",
+            "description": "Cream or ointment: 1% (acetate)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines affecting skin differentiation and proliferation",
+        "drugs": [
+          {
+            "name": "Benzoyl peroxide",
+            "description": "Cream or lotion: 5%."
+          },
+          {
+            "name": "Coal tar",
+            "description": "Solution: 5%."
+          },
+          {
+            "name": "Podophyllum resin",
+            "description": "Solution: 10% to 25%."
+          },
+          {
+            "name": "Coal tar",
+            "description": "Solution: 5%."
+          },
+          {
+            "name": "Podophyllum resin",
+            "description": "Solution: 10% to 25%."
+          },
+          {
+            "name": "Salicylic acid",
+            "description": "Solution: 5%."
+          },
+          {
+            "name": "Urea",
+            "description": "Cream or ointment: 5%; 10%."
+          }
+        ]
+      },
+      {
+        "subcategory": "Scabicides and pediculicides",
+        "drugs": [
+          {
+            "name": "Benzyl benzoate",
+            "description": "Lotion: 25%.\n > 2years"
+          },
+          {
+            "name": "Permethrin",
+            "description": "Cream: 5%.\nLotion: 1%."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Daignostic agents",
+    "classes": [
+      {
+        "subcategory": "Ophthalmic medicines",
+        "drugs": [
+          {
+            "name": "Fluorescein",
+            "description": "Eye drops: 1% (sodium salt)."
+          },
+          {
+            "name": "Tropicamide",
+            "description": "Eye drops: 0.5%."
+          }
+        ]
+      },
+      {
+        "subcategory": "Radiocontrast media",
+        "drugs": [
+          {
+            "name": "Barium sulfate",
+            "description": "Aqueous suspension"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Disinfectants and antiseptics",
+    "classes": [
+      {
+        "subcategory": "Antiseptics",
+        "drugs": [
+          {
+            "name": "Fluorescein",
+            "description": "Solution: 5% (digluconate).\nGel: 4%."
+          },
+          {
+            "name": "Ethanol",
+            "description": "Solution: 70% (denatured)"
+          },
+          {
+            "name": "Povidone iodine",
+            "description": "Solution: 10% (equivalent to 1% available iodine)."
+          }
+        ]
+      },
+      {
+        "subcategory": "Disinfectants",
+        "drugs": [
+          {
+            "name": "Alcohol based hand rub",
+            "description": "Solution containing ethanol 80% volume /volume\n\nSolution containing isopropyl alcohol 75% volume/volume"
+          },
+          {
+            "name": "Chlorine base compound",
+            "description": "Powder: (0.1% available chlorine) for solution."
+          },
+          {
+            "name": "Chloroxylenol",
+            "description": "Solution: 4.8%"
+          },
+          {
+            "name": "Glutaral",
+            "description": "Solution: 2%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Diuretics",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Furosemide",
+            "description": "Injection: 10 mg/mL in 2-mL ampoule.\nOral liquid: 20 mg/5 mL.\nTablet: 10 mg; 20 mg; 40 mg."
+          },
+          {
+            "name": "Hydrochlorothiazide",
+            "description": "Tablet (scored): 25 mg."
+          },
+          {
+            "name": "Mannitol",
+            "description": "Injectable solution: 10%; 20%"
+          },
+          {
+            "name": "Spironolactone",
+            "description": "Oral liquid: 5 mg/5 mL; 10 mg/5 mL; 25 mg/5 mL.\nTablet: 25 mg."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Gastrointestinal medicines",
+    "classes": [
+      {
+        "subcategory": "Antiulcer medicines",
+        "drugs": [
+          {
+            "name": "Omeprazole",
+            "description": "Powder for oral liquid: 20-mg; 40-mg sachets.\n\nSolid oral dosage form: 10 mg; 20 mg; 40 mg."
+          },
+          {
+            "name": "Ranitidine",
+            "description": "Injection: 25 mg/mL (as hydrochloride) in 2-mL ampoule.\nOral liquid: 75 g/5 mL (as hydrochloride).\nTablet: 150 mg (as hydrochloride)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Antiemetic medicines",
+        "drugs": [
+          {
+            "name": "Dexamethasone",
+            "description": "Injection: 4 mg/mL in 1-mL ampoule (as disodium phosphate salt).\nOral liquid: 0.5 mg/5 mL; 2 mg/5 mL.\nSolid oral dosage form: 0.5 mg; 0.75 mg; 1.5 mg; 4 mg."
+          },
+          {
+            "name": "Metoclopramide",
+            "description": "Injection: 5 mg (hydrochloride)/mL in 2-mL ampoule.\nOral liquid: 5 mg/5 mL.\nTablet: 10 mg (hydrochloride).\n** Not in neonates."
+          },
+          {
+            "name": "Ondansetron",
+            "description": "Injection: 2 mg base/mL in 2-mL ampoule (as hydrochloride).\nOral liquid: 4 mg base/5 mL.\nSolid oral dosage form: Eq 4 mg base; Eq 8 mg base. **For use in children: >1 month."
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines used in diarrhoea",
+        "drugs": [
+          {
+            "name": "Oral rehydration salts(ORS)",
+            "description": "Powder for dilution in 200 mL; 500 mL; 1 L.\nglucose: 75 mEq or mmol/L\nsodium:5 mEq or mmol\nchloride:65 mEq or mmol/L\npotassium:20 mEq or mmol/L\ncitrate: 10 mmol/L\nosmolarity: 245 mOsm/L\nglucose: 13.5 g/L\nsodium chloride:2.6 g/L\npotassium chloride: 1.5 g/L\ntrisodium citrate dihydrate*: 2.9 g/L\n\n* trisodium citrate dihydrate may be replaced by sodium hydrogen carbonate (sodium bicarbonate) 2.5 g/ L. However, as the stability of this latter formulation is very poor under tropical conditions, it is recommended only when manufactured for immediate use."
+          },
+          {
+            "name": "Zinc sulfate",
+            "description": "Solid oral dosage form: 20 mg.\n*In acute diarrhoea, zinc sulfate should be used as an adjunct to oral rehydration salts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Hormones, other endocrine medicines",
+    "classes": [
+      {
+        "subcategory": "Adrenal hormones and synthetic substitutes",
+        "drugs": [
+          {
+            "name": "Fludrocortisone",
+            "description": "Tablet: 100 micrograms (acetate)"
+          },
+          {
+            "name": "Hydrocortisone",
+            "description": "Tablet: 5 mg; 10 mg; 20 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Insulins and other medicines used for diabetes",
+        "drugs": [
+          {
+            "name": "Glucagon",
+            "description": "Injection: 1 mg/mL"
+          },
+          {
+            "name": "Insulin injection (soluble)",
+            "description": "Injection: 100 IU/mL in 10-mL vial."
+          },
+          {
+            "name": "Intermediate-acting insulin",
+            "description": "Injection: 100 IU/mL in 10-mL vial (as compound insulin zinc suspension or isophane insulin)."
+          },
+          {
+            "name": "Metformin",
+            "description": "Tablet: 500 mg (hydrochloride)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Thyroid hormones and antithyroid medicines",
+        "drugs": [
+          {
+            "name": "Levothyroxine",
+            "description": "25 micrograms; 50 micrograms; 100 micrograms(sodium salt)"
+          },
+          {
+            "name": "Lugol's solution",
+            "description": "Oral liquid: about 130 mg total iodine/mL."
+          },
+          {
+            "name": "Potassium iodide",
+            "description": "Tablet: 60 mg"
+          },
+          {
+            "name": "Propylthiouracil",
+            "description": "Tablet: 50 mg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Immunologicals",
+    "classes": [
+      {
+        "subcategory": "Diagnostic agents",
+        "drugs": [
+          {
+            "name": "Tuberculin, purified protein derivative (PPD)",
+            "description": "Injection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Sera and immunoglobulins",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Anti-venom immunoglobulin",
+            "description": "Injection"
+          },
+          {
+            "name": "Diphtheria antitoxin",
+            "description": "Injection: 10 000 IU; 20 000 IU in vial"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Muscle relaxants (peripherally-acting) and cholinesterase inhibitors",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "Neostigmine",
+            "description": "Injection: 500 micrograms in 1-mL ampoule; 2.5 mg (metilsulfate) in 1-mL ampoule.\nTablet: 15 mg (bromide)."
+          },
+          {
+            "name": "Suxamethonium",
+            "description": "Injection: 50 mg (chloride)/mL in 2-mL ampoule.\nPowder for injection: (chloride), in vial."
+          },
+          {
+            "name": "Vecuronium",
+            "description": "Powder for injection: 10 mg (bromide) in vial."
+          },
+          {
+            "name": "Pyridostigmine",
+            "description": "Injection: 1 mg in 1-mL ampoule.\nTablet: 60 mg (bromide)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Ophthalmological preparations",
+    "classes": [
+      {
+        "subcategory": "Anti-infective agents",
+        "drugs": [
+          {
+            "name": "Aciclovir",
+            "description": "Ointment: 3% W/W."
+          },
+          {
+            "name": "Azithromycin",
+            "description": "Solution (eye drops): 1.5%"
+          },
+          {
+            "name": "Erythromycin",
+            "description": "Ointment: 0.5%\n*Infections due to Chlamydia trachomatis or Neisseria gonorrhoeae."
+          },
+          {
+            "name": "Gentamicin",
+            "description": "Solution (eye drops): 0.3% (sulfate)"
+          },
+          {
+            "name": "Natamycin",
+            "description": "Suspension: (eye drops): 5%"
+          },
+          {
+            "name": "Ofloxacin",
+            "description": "Solution (eye drops): 0.3%"
+          },
+          {
+            "name": "Tetracycline",
+            "description": "Eye ointment: 1% (hydrochloride)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Anti-inflammatory agents",
+        "drugs": [
+          {
+            "name": "Prednisolone",
+            "description": "Solution (eye drops): 0.5% (sodium phosphate)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Local anaesthetics",
+        "drugs": [
+          {
+            "name": "Tetracaine",
+            "description": "Solution (eye drops): 0.5% (hydrochloride).\nNot in preterm neonates."
+          }
+        ]
+      },
+      {
+        "subcategory": "Mydriatics",
+        "drugs": [
+          {
+            "name": "Atropine",
+            "description": "Solution (eye drops): 0.1%; 0.5%; 1% sulfate).\n*Or homatropine (hydrobromide) or cyclopentolate (hydrochloride).\n**For use in children > 3 months"
+          },
+          {
+            "name": "Epinephrine",
+            "description": "Solution (eye drops): 2% (as hydrochloride)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Medicines for mental and behavioural disorders",
+    "classes": [
+      {
+        "subcategory": "Medicines used in psychotic disorders",
+        "drugs": [
+          {
+            "name": "Chlorpromazine",
+            "description": "Injection: 25 mg (hydrochloride)/mL in 2-mL ampoule.\nOral liquid: 25 mg (hydrochloride)/5 mL.\nTablet: 10 mg; 25 mg; 50 mg; 100 mg (hydrochloride)."
+          },
+          {
+            "name": "Haloperidol",
+            "description": "Injection: 5 mg in 1-mL ampoule.\n\nOral liquid: 2 mg/mL.\nSolid oral dosage form: 0.5 mg; 2 mg; 5 mg."
+          }
+        ]
+      },
+      {
+        "subcategory": "Medicines used in depressive disorders",
+        "drugs": [
+          {
+            "name": "Fluoxetine",
+            "description": "Solid oral dosage form: 20 mg (as hydrochloride) >8 years."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Medicines acting on the respiratory tract",
+    "classes": [
+      {
+        "subcategory": "Antiasthmatic medicines",
+        "drugs": [
+          {
+            "name": "Budesonide",
+            "description": "Inhalation (aerosol): 100 micrograms per dose; 200 micrograms per dose"
+          },
+          {
+            "name": "Epinephrine (adrenaline)",
+            "description": "Injection: 1 mg (as hydrochloride or hydrogen tartrate) in 1-mL ampoule"
+          },
+          {
+            "name": "Salbutamol",
+            "description": "Injection: 50 micrograms (as sulfate)/mL in 5-mL ampoule. \nMetered dose inhaler (aerosol): 100 micrograms (as sulfate) per dose.\nRespirator solution for use in nebulizers: 5 mg (as sulfate)/mL."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Solutions correcting water, electrolyte and acid–base disturbances",
+    "classes": [
+      {
+        "subcategory": "Oral",
+        "drugs": [
+          {
+            "name": "Oral rehydration salts(ORS)",
+            "description": "Powder for dilution"
+          },
+          {
+            "name": "Potassium chloride",
+            "description": "Powder for solution"
+          }
+        ]
+      },
+      {
+        "subcategory": "Parenteral",
+        "drugs": [
+          {
+            "name": "Glucose",
+            "description": "Injectable solution: 5% (isotonic); 10% (hypertonic);50% (hypertonic)."
+          },
+          {
+            "name": "Glucose with sodium chloride",
+            "description": "Injectable solution: 5% glucose, 0.9% sodium chloride(equivalent to Na+ 150 mmol/L and Cl- 150 mmol/L);5% glucose, 0.45% sodium chloride (equivalent to Na+ 75 mmol/L and Cl- 75 mmol/L)."
+          },
+          {
+            "name": "Potassium chloride",
+            "description": "Solution for dilution: 7.5% (equivalent to K+ 1 mmol/mL and Cl- 1 mmol/mL); 15% (equivalent to K+ 2 mmol/mL and Cl- 2 mmol/mL)."
+          },
+          {
+            "name": "Sodium chloride",
+            "description": "Injectable solution: 0.9% isotonic (equivalent to Na+ 154 mmol/L, Cl- 154 mmol/L)"
+          },
+          {
+            "name": "Sodium hydrogen carbonate",
+            "description": "Injectable solution: 1.4% isotonic (equivalent to Na+167 mmol/L, HCO 3- 167 mmol/L). Solution: 8.4% in 10-mL ampoule (equivalent to Na+ 1000 mmol/L, HCO 3 -1000 mmol/L)"
+          },
+          {
+            "name": "Sodium lactate, compound solution",
+            "description": "Injectable solution"
+          }
+        ]
+      },
+      {
+        "subcategory": "Miscellaneous",
+        "drugs": [
+          {
+            "name": "Water for injection",
+            "description": "2-mL; 5-mL; 10-mL ampoules"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Vitamins and minerals",
+    "classes": [
+      {
+        "subcategory": null,
+        "drugs": [
+          {
+            "name": "ascorbic acid",
+            "description": "Tablet: 50 mg"
+          },
+          {
+            "name": "Colecalciferol",
+            "description": "Oral liquid: 400 IU/mL.\nSolid oral dosage form: 400 IU; 1000 IU.\n* Ergocalciferol can be used as an alternative."
+          },
+          {
+            "name": "Iodine",
+            "description": "Capsule: 200 mg.\n\nIodine Iodized oil: 1 mL (480 mg iodine); 0.5 mL (240 mg iodine) in ampoule (oral or injectable); 0.57 mL (308 mg iodine) in dispenser bottle"
+          },
+          {
+            "name": "Pyridoxine",
+            "description": "Tablet: 25 mg (hydrochloride)"
+          },
+          {
+            "name": "Retinol",
+            "description": "Capsule: 100 000 IU; 200 000 IU (as palmitate).\n\nOral oily solution: 100 000 IU (as palmitate)/mL in multidose dispenser.\nTablet (sugar-coated): 10 000 IU (as palmitate).\nWater-miscible injection: 100 000 IU (as palmitate) in 2-mL ampoule."
+          },
+          {
+            "name": "Riboflavin",
+            "description": "Tablet: 5 mg"
+          },
+          {
+            "name": "Sodium fluoride",
+            "description": "In any appropriate topical formulation"
+          },
+          {
+            "name": "Thiamine",
+            "description": "Tablet: 50 mg (hydrochloride)"
+          },
+          {
+            "name": "Calcium gluconate",
+            "description": "Injection: 100 mg/mL in 10-mL ampoule"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Ear, nose and throat medicines",
+    "classes": [
+      {
+        "subcategory": "Medicines administered to the neonate",
+        "drugs": [
+          {
+            "name": "Caffeine citrate",
+            "description": "Injection:20 mg/mL (equivalent to 10 mg caffeine base/mL). Oral liquid: 20 mg/mL (equivalent to 10 mg caffeine base/mL)."
+          },
+          {
+            "name": "Chlorhexidine",
+            "description": "Solution or gel: 7.1% (digluconate) chlorhexidine (for umbilical cord care)"
+          },
+          {
+            "name": "prostaglandin E",
+            "description": "Solution for injection: prostaglandin E surfactant Prostaglandin E1: 0.5 mg/mL in alcohol.\nProstaglandin E2: 1 mg/mL"
+          },
+          {
+            "name": "Ibuprofen",
+            "description": "Solution for injection: 5 mg/mL"
+          },
+          {
+            "name": "Surfactant",
+            "description": "Suspension for intratracheal instillation: 25 mg/mL or 80 mg/mL."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Medicines for diseases of joints",
+    "classes": [
+      {
+        "subcategory": "Disease-modifying agents used in rheumatoid disorders (DMARDs)",
+        "drugs": [
+          {
+            "name": "Hydroxychloroquine",
+            "description": "Solid oral dosage form: 200 mg (as sulfate)"
+          },
+          {
+            "name": "Methotrexate",
+            "description": "Tablet: 2.5 mg (as sodium salt)"
+          }
+        ]
+      },
+      {
+        "subcategory": "Juvenile joint diseases",
+        "drugs": [
+          {
+            "name": "Acetylsalicylic acid* (acute or chronic use)",
+            "description": "Suppository: 50 mg to 150 mg.  Acetylsalicylic acid* (acute or chronic use)\nTablet: 100 mg to 500 mg.\n*For use for rheumatic fever, juvenile arthritis, Kawasaki disease."
+          }
+        ]
+      }
+    ]
+  }
+]

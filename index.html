@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EML - 2007</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <nav id="navbar">
+        <h1 class="title">WHO - Essential medicines List(2007)</h1>
+        <h4 class="subtitle">Developed and maintainer by Dr. Abiira Nathan</h4>
+      </nav>
+    </header>
+    <main id="main">
+      <p class="eml-category">Category: Paediatrics</p>
+      <div id="search">
+        <input
+          type="search"
+          name="name"
+          placeholder="Search for drug"
+          autocomplete="off"
+          id="search-input"
+        />
+        <form id="filter-form">
+          <section>
+            <input type="radio" name="filter" id="category" checked />
+            <label for="category">Category</label>
+          </section>
+          <section>
+            <input type="radio" name="filter" id="subcategory" />
+            <label for="subcategory">Sub-category</label>
+          </section>
+          <section>
+            <input type="radio" name="filter" id="drug" />
+            <label for="drug">Drug</label>
+          </section>
+        </form>
+      </div>
+      <ul id="search-output" class="hidden"></ul>
+      <ul id="content"></ul>
+    </main>
+    <script src="./index.min.js" defer></script>
+  </body>
+</html>
